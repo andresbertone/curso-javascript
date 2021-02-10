@@ -42,5 +42,4 @@ const name = document.getElementById('name');
 // console.log(title.textContent); // Imprime solo texto
 
 console.log(name.value); // IMPORTANTE PARA VALIDAR FORMULARIOS
-
 console.log(name.value.length);
